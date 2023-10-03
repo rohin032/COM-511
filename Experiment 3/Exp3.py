@@ -1,7 +1,7 @@
 '''Consider the string Welcome to python world.Perform the following operations:
-Count the number of alphabets in the given string. 
-To extract charcaters in the given range from the given range. 
-Check if the string is alphanumeric or not'''
+   Count the number of alphabets in the given string. 
+   To extract charcaters in the given range from the given range. 
+   Check if the string is alphanumeric or not'''
 
 
 input_string = "Welcome to python world"
